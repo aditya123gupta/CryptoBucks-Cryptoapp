@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cryptoBucks-Cryptoapp/static/css/main.77bb2a6e.css",
+    "main.js": "/cryptoBucks-Cryptoapp/static/js/main.66a60598.js",
+    "static/js/787.4e5ab48a.chunk.js": "/cryptoBucks-Cryptoapp/static/js/787.4e5ab48a.chunk.js",
+    "static/media/fraction.cjs": "/cryptoBucks-Cryptoapp/static/media/fraction.a641cd80e2310e4e5e60.cjs",
+    "static/media/logo.svg": "/cryptoBucks-Cryptoapp/static/media/logo.ba5e309abadff23fef354ee4ab537626.svg",
+    "static/media/submit-icon.svg": "/cryptoBucks-Cryptoapp/static/media/submit-icon.df6311ef7bd1383b2860a218cc7d01a4.svg",
+    "static/media/pagination-arrow.svg": "/cryptoBucks-Cryptoapp/static/media/pagination-arrow.e21b39464a11475d1397ae4bb52a177f.svg",
+    "index.html": "/cryptoBucks-Cryptoapp/index.html",
+    "static/media/select-icon.svg": "/cryptoBucks-Cryptoapp/static/media/select-icon.bd2e95499d73462213dd5e222d294013.svg",
+    "static/media/search-icon.svg": "/cryptoBucks-Cryptoapp/static/media/search-icon.523d9a8cb9ecb1aa8d160bd7e4e815a6.svg",
+    "static/media/index.cjs": "/cryptoBucks-Cryptoapp/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.77bb2a6e.css.map": "/cryptoBucks-Cryptoapp/static/css/main.77bb2a6e.css.map",
+    "main.66a60598.js.map": "/cryptoBucks-Cryptoapp/static/js/main.66a60598.js.map",
+    "787.4e5ab48a.chunk.js.map": "/cryptoBucks-Cryptoapp/static/js/787.4e5ab48a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77bb2a6e.css",
+    "static/js/main.66a60598.js"
+  ]
+}
